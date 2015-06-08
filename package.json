@@ -3,5 +3,6 @@
   "devDependencies": {
     "mocha": "^2.2.5",
     "streamcat": "^2.5.0"
-  }
+  },
+  "version": "1.0.0"
 }
