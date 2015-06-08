@@ -1,1 +1,7 @@
-{ "name": "buffer-streamerror" }
+{
+  "name": "promisebuffer",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "streamcat": "^2.5.0"
+  }
+}
